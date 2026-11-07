@@ -1,1 +1,2109 @@
+[
+  {
+    "id": 1,
+    "ad": "Abdullah Gül Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kayseri",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/abdullah-gul-universitesi.svg",
+    "aciklama": "Kayseri şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.agu.edu.tr"
+  },
+  {
+    "id": 2,
+    "ad": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/acibadem-mehmet-ali-aydinlar-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.acibadem.edu.tr"
+  },
+  {
+    "id": 3,
+    "ad": "Ada Kent Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Gazimağusa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ada-kent-universitesi.png",
+    "aciklama": "Gazimağusa şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.adakent.edu.tr"
+  },
+  {
+    "id": 4,
+    "ad": "Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Adana",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/adana-alparslan-turkes-bilim-ve-teknoloji-universitesi.svg",
+    "aciklama": "Adana şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.atu.edu.tr"
+  },
+  {
+    "id": 5,
+    "ad": "Adıyaman Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Adıyaman",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/adiyaman-universitesi.svg",
+    "aciklama": "Adıyaman şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.adiyaman.edu.tr"
+  },
+  {
+    "id": 6,
+    "ad": "Afyon Kocatepe Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Afyonkarahisar",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/afyon-kocatepe-universitesi.svg",
+    "aciklama": "Afyonkarahisar şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.aku.edu.tr"
+  },
+  {
+    "id": 7,
+    "ad": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Afyonkarahisar",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/afyonkarahisar-saglik-bilimleri-universitesi.svg",
+    "aciklama": "Afyonkarahisar şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.afsu.edu.tr"
+  },
+  {
+    "id": 8,
+    "ad": "Ağrı İbrahim Çeçen Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ağrı",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/agri-ibrahim-cecen-universitesi.svg",
+    "aciklama": "Ağrı şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.agri.edu.tr"
+  },
+  {
+    "id": 9,
+    "ad": "Ahmet Yesevi Üniversitesi",
+    "tur": "Diğer",
+    "sehir": "Türkistan",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ahmet-yesevi-universitesi.svg",
+    "aciklama": "Türkistan şehrinde bulunan üniversitesi.",
+    "webSite": "https://www.ayu.edu.tr"
+  },
+  {
+    "id": 10,
+    "ad": "Akdeniz Karpaz Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Lefkoşa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/akdeniz-karpaz-universitesi.png",
+    "aciklama": "Lefkoşa şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.akun.edu.tr"
+  },
+  {
+    "id": 11,
+    "ad": "Akdeniz Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Antalya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/akdeniz-universitesi.svg",
+    "aciklama": "Antalya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.akdeniz.edu.tr"
+  },
+  {
+    "id": 12,
+    "ad": "Aksaray Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Aksaray",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/aksaray-universitesi.svg",
+    "aciklama": "Aksaray şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.aksaray.edu.tr"
+  },
+  {
+    "id": 13,
+    "ad": "Alanya Alaaddin Keykubat Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Antalya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/alanya-alaaddin-keykubat-universitesi.svg",
+    "aciklama": "Antalya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.alanya.edu.tr"
+  },
+  {
+    "id": 14,
+    "ad": "Alanya Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Antalya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/alanya-universitesi.svg",
+    "aciklama": "Antalya şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.alanyauniversity.edu.tr"
+  },
+  {
+    "id": 15,
+    "ad": "Altınbaş Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/altinbas-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.altinbas.edu.tr/tr"
+  },
+  {
+    "id": 16,
+    "ad": "Amasya Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Amasya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/amasya-universitesi.svg",
+    "aciklama": "Amasya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.amasya.edu.tr"
+  },
+  {
+    "id": 17,
+    "ad": "Anadolu Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Eskişehir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/anadolu-universitesi.svg",
+    "aciklama": "Eskişehir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.anadolu.edu.tr"
+  },
+  {
+    "id": 18,
+    "ad": "Ankara Bilim Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ankara-bilim-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.ankarabilim.edu.tr"
+  },
+  {
+    "id": 19,
+    "ad": "Ankara Hacı Bayram Veli Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ankara-haci-bayram-veli-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://hacibayram.edu.tr"
+  },
+  {
+    "id": 20,
+    "ad": "Ankara Medipol Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ankara-medipol-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.ankaramedipol.edu.tr"
+  },
+  {
+    "id": 21,
+    "ad": "Ankara Müzik ve Güzel Sanatlar Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ankara-muzik-ve-guzel-sanatlar-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.mgu.edu.tr"
+  },
+  {
+    "id": 22,
+    "ad": "Ankara Sosyal Bilimler Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ankara-sosyal-bilimler-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.asbu.edu.tr"
+  },
+  {
+    "id": 23,
+    "ad": "Ankara Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ankara-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ankara.edu.tr"
+  },
+  {
+    "id": 24,
+    "ad": "Ankara Yıldırım Beyazıt Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ankara-yildirim-beyazit-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.aybu.edu.tr"
+  },
+  {
+    "id": 25,
+    "ad": "Antalya Belek Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Antalya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/antalya-belek-universitesi.svg",
+    "aciklama": "Antalya şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.belek.edu.tr"
+  },
+  {
+    "id": 26,
+    "ad": "Antalya Bilim Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Antalya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/antalya-bilim-universitesi.svg",
+    "aciklama": "Antalya şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.antalya.edu.tr"
+  },
+  {
+    "id": 27,
+    "ad": "Ardahan Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ardahan",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ardahan-universitesi.svg",
+    "aciklama": "Ardahan şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ardahan.edu.tr"
+  },
+  {
+    "id": 28,
+    "ad": "Arkın Yaratıcı Sanatlar ve Tasarım Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Girne",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/arkin-yaratici-sanatlar-ve-tasarim-universitesi.png",
+    "aciklama": "Girne şehrinde bulunan KKTC üniversitesi.",
+    "webSite": ""
+  },
+  {
+    "id": 29,
+    "ad": "Artvin Çoruh Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Artvin",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/artvin-coruh-universitesi.svg",
+    "aciklama": "Artvin şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.artvin.edu.tr"
+  },
+  {
+    "id": 30,
+    "ad": "Ataşehir Adıgüzel Meslek Yüksekokulu",
+    "tur": "Vakıf MYO",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/atasehir-adiguzel-meslek-yuksekokulu.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf meslek yüksekokulu.",
+    "webSite": "https://www.adiguzel.edu.tr"
+  },
+  {
+    "id": 31,
+    "ad": "Atatürk Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Erzurum",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ataturk-universitesi.png",
+    "aciklama": "Erzurum şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.atauni.edu.tr"
+  },
+  {
+    "id": 32,
+    "ad": "Atılım Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/atilim-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.atilim.edu.tr"
+  },
+  {
+    "id": 33,
+    "ad": "Avrasya Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Trabzon",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/avrasya-universitesi.svg",
+    "aciklama": "Trabzon şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.avrasya.edu.tr"
+  },
+  {
+    "id": 34,
+    "ad": "Aydın Adnan Menderes Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Aydın",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/aydin-adnan-menderes-universitesi.svg",
+    "aciklama": "Aydın şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.adu.edu.tr"
+  },
+  {
+    "id": 35,
+    "ad": "Azerbaycan Devlet Pedagoji Üniversitesi",
+    "tur": "Diğer",
+    "sehir": "Bakü",
+    "logo": "",
+    "aciklama": "Bakü şehrinde bulunan üniversitesi.",
+    "webSite": ""
+  },
+  {
+    "id": 36,
+    "ad": "Bahçeşehir Kıbrıs Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Lefkoşa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bahcesehir-kibris-universitesi.png",
+    "aciklama": "Lefkoşa şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.baucyprus.edu.tr"
+  },
+  {
+    "id": 37,
+    "ad": "Bahçeşehir Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bahcesehir-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.bahcesehir.edu.tr"
+  },
+  {
+    "id": 38,
+    "ad": "Balıkesir Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Balıkesir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/balikesir-universitesi.svg",
+    "aciklama": "Balıkesir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.balikesir.edu.tr"
+  },
+  {
+    "id": 39,
+    "ad": "Bandırma Onyedi Eylül Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Balıkesir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bandirma-onyedi-eylul-universitesi.svg",
+    "aciklama": "Balıkesir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.bandirma.edu.tr"
+  },
+  {
+    "id": 40,
+    "ad": "Bartın Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Bartın",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bartin-universitesi.svg",
+    "aciklama": "Bartın şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.bartin.edu.tr"
+  },
+  {
+    "id": 41,
+    "ad": "Başkent Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/baskent-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.baskent.edu.tr"
+  },
+  {
+    "id": 42,
+    "ad": "Batman Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Batman",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/batman-universitesi.png",
+    "aciklama": "Batman şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.batman.edu.tr"
+  },
+  {
+    "id": 43,
+    "ad": "Bayburt Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Bayburt",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bayburt-universitesi.svg",
+    "aciklama": "Bayburt şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://bayburt.edu.tr"
+  },
+  {
+    "id": 44,
+    "ad": "Beykoz Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/beykoz-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.beykoz.edu.tr"
+  },
+  {
+    "id": 45,
+    "ad": "Bezm-i Âlem Vakıf Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bezm-i-alem-vakif-universitesi.png",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.bezmialem.edu.tr"
+  },
+  {
+    "id": 46,
+    "ad": "Bilecik Şeyh Edebali Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Bilecik",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bilecik-seyh-edebali-universitesi.png",
+    "aciklama": "Bilecik şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.bilecik.edu.tr"
+  },
+  {
+    "id": 47,
+    "ad": "Bingöl Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Bingöl",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bingol-universitesi.png",
+    "aciklama": "Bingöl şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.bingol.edu.tr"
+  },
+  {
+    "id": 48,
+    "ad": "Biruni Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/biruni-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.biruni.edu.tr"
+  },
+  {
+    "id": 49,
+    "ad": "Bitlis Eren Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Bitlis",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bitlis-eren-universitesi.png",
+    "aciklama": "Bitlis şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.beu.edu.tr"
+  },
+  {
+    "id": 50,
+    "ad": "Boğaziçi Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bogazici-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.bogazici.edu.tr"
+  },
+  {
+    "id": 51,
+    "ad": "Bolu Abant İzzet Baysal Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Bolu",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bolu-abant-izzet-baysal-universitesi.svg",
+    "aciklama": "Bolu şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ibu.edu.tr"
+  },
+  {
+    "id": 52,
+    "ad": "Burdur Mehmet Akif Ersoy Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Burdur",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/burdur-mehmet-akif-ersoy-universitesi.svg",
+    "aciklama": "Burdur şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.mehmetakif.edu.tr"
+  },
+  {
+    "id": 53,
+    "ad": "Bursa Teknik Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Bursa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bursa-teknik-universitesi.png",
+    "aciklama": "Bursa şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://btu.edu.tr"
+  },
+  {
+    "id": 54,
+    "ad": "Bursa Uludağ Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Bursa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/bursa-uludag-universitesi.svg",
+    "aciklama": "Bursa şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.uludag.edu.tr"
+  },
+  {
+    "id": 55,
+    "ad": "Çağ Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Mersin",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/cag-universitesi.svg",
+    "aciklama": "Mersin şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.cag.edu.tr"
+  },
+  {
+    "id": 56,
+    "ad": "Çanakkale Onsekiz Mart Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Çanakkale",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/canakkale-onsekiz-mart-universitesi.png",
+    "aciklama": "Çanakkale şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.comu.edu.tr"
+  },
+  {
+    "id": 57,
+    "ad": "Çankaya Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/cankaya-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.cankaya.edu.tr"
+  },
+  {
+    "id": 58,
+    "ad": "Çankırı Karatekin Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Çankırı",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/cankiri-karatekin-universitesi.svg",
+    "aciklama": "Çankırı şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.karatekin.edu.tr"
+  },
+  {
+    "id": 59,
+    "ad": "Çukurova Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Adana",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/cukurova-universitesi.svg",
+    "aciklama": "Adana şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.cu.edu.tr"
+  },
+  {
+    "id": 60,
+    "ad": "Demiroğlu Bilim Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/demiroglu-bilim-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.demiroglu.bilim.edu.tr"
+  },
+  {
+    "id": 61,
+    "ad": "Dicle Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Diyarbakır",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/dicle-universitesi.svg",
+    "aciklama": "Diyarbakır şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.dicle.edu.tr"
+  },
+  {
+    "id": 62,
+    "ad": "Doğu Akdeniz Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Gazimağusa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/dogu-akdeniz-universitesi.svg",
+    "aciklama": "Gazimağusa şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.emu.edu.tr"
+  },
+  {
+    "id": 63,
+    "ad": "Doğuş Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/dogus-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.dogus.edu.tr"
+  },
+  {
+    "id": 64,
+    "ad": "Dokuz Eylül Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İzmir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/dokuz-eylul-universitesi.svg",
+    "aciklama": "İzmir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.deu.edu.tr"
+  },
+  {
+    "id": 65,
+    "ad": "Düzce Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Düzce",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/duzce-universitesi.svg",
+    "aciklama": "Düzce şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.duzce.edu.tr"
+  },
+  {
+    "id": 66,
+    "ad": "Ege Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İzmir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ege-universitesi.svg",
+    "aciklama": "İzmir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ege.edu.tr"
+  },
+  {
+    "id": 67,
+    "ad": "Erciyes Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kayseri",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/erciyes-universitesi.svg",
+    "aciklama": "Kayseri şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.erciyes.edu.tr"
+  },
+  {
+    "id": 68,
+    "ad": "Erzincan Binali Yıldırım Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Erzincan",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/erzincan-binali-yildirim-universitesi.svg",
+    "aciklama": "Erzincan şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ebyu.edu.tr"
+  },
+  {
+    "id": 69,
+    "ad": "Erzurum Teknik Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Erzurum",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/erzurum-teknik-universitesi.svg",
+    "aciklama": "Erzurum şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.erzurum.edu.tr"
+  },
+  {
+    "id": 70,
+    "ad": "Eskişehir Osmangazi Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Eskişehir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/eskisehir-osmangazi-universitesi.svg",
+    "aciklama": "Eskişehir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ogu.edu.tr"
+  },
+  {
+    "id": 71,
+    "ad": "Eskişehir Teknik Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Eskişehir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/eskisehir-teknik-universitesi.svg",
+    "aciklama": "Eskişehir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.eskisehir.edu.tr"
+  },
+  {
+    "id": 72,
+    "ad": "Fatih Sultan Mehmet Vakıf Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/fatih-sultan-mehmet-vakif-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.fsm.edu.tr"
+  },
+  {
+    "id": 73,
+    "ad": "Fenerbahçe Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/fenerbahce-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.fbu.edu.tr"
+  },
+  {
+    "id": 74,
+    "ad": "Fırat Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Elazığ",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/firat-universitesi.svg",
+    "aciklama": "Elazığ şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.firat.edu.tr"
+  },
+  {
+    "id": 75,
+    "ad": "Galatasaray Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/galatasaray-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.gsu.edu.tr"
+  },
+  {
+    "id": 76,
+    "ad": "Gazi Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/gazi-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://gazi.edu.tr"
+  },
+  {
+    "id": 77,
+    "ad": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Gaziantep",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/gaziantep-islam-bilim-ve-teknoloji-universitesi.png",
+    "aciklama": "Gaziantep şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.gibtu.edu.tr"
+  },
+  {
+    "id": 78,
+    "ad": "Gaziantep Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Gaziantep",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/gaziantep-universitesi.svg",
+    "aciklama": "Gaziantep şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.gantep.edu.tr"
+  },
+  {
+    "id": 79,
+    "ad": "Gebze Teknik Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kocaeli",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/gebze-teknik-universitesi.svg",
+    "aciklama": "Kocaeli şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.gtu.edu.tr"
+  },
+  {
+    "id": 80,
+    "ad": "Giresun Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Giresun",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/giresun-universitesi.svg",
+    "aciklama": "Giresun şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.giresun.edu.tr"
+  },
+  {
+    "id": 81,
+    "ad": "Girne Amerikan Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Girne",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/girne-amerikan-universitesi.svg",
+    "aciklama": "Girne şehrinde bulunan KKTC üniversitesi.",
+    "webSite": ""
+  },
+  {
+    "id": 82,
+    "ad": "Girne Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Girne",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/girne-universitesi.svg",
+    "aciklama": "Girne şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.kyrenia.edu.tr"
+  },
+  {
+    "id": 83,
+    "ad": "Gümüşhane Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Gümüşhane",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/gumushane-universitesi.svg",
+    "aciklama": "Gümüşhane şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.gumushane.edu.tr"
+  },
+  {
+    "id": 84,
+    "ad": "Hacettepe Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/hacettepe-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://hacettepe.edu.tr"
+  },
+  {
+    "id": 85,
+    "ad": "Hakkari Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Hakkari",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/hakkari-universitesi.svg",
+    "aciklama": "Hakkari şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.hakkari.edu.tr / www.hu.edu.tr"
+  },
+  {
+    "id": 86,
+    "ad": "Haliç Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/halic-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.halic.edu.tr"
+  },
+  {
+    "id": 87,
+    "ad": "Harran Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Şanlıurfa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/harran-universitesi.svg",
+    "aciklama": "Şanlıurfa şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.harran.edu.tr"
+  },
+  {
+    "id": 88,
+    "ad": "Hasan Kalyoncu Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Gaziantep",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/hasan-kalyoncu-universitesi.svg",
+    "aciklama": "Gaziantep şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.hku.edu.tr"
+  },
+  {
+    "id": 89,
+    "ad": "Hatay Mustafa Kemal Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Hatay",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/hatay-mustafa-kemal-universitesi.svg",
+    "aciklama": "Hatay şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.mku.edu.tr"
+  },
+  {
+    "id": 90,
+    "ad": "Hitit Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Çorum",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/hitit-universitesi.svg",
+    "aciklama": "Çorum şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.hitit.edu.tr"
+  },
+  {
+    "id": 91,
+    "ad": "İbn Haldun Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ibn-haldun-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.ihu.edu.tr"
+  },
+  {
+    "id": 92,
+    "ad": "Iğdır Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Iğdır",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/igdir-universitesi.svg",
+    "aciklama": "Iğdır şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.igdir.edu.tr"
+  },
+  {
+    "id": 93,
+    "ad": "İhsan Doğramacı Bilkent Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ihsan-dogramaci-bilkent-universitesi.png",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.bilkent.edu.tr"
+  },
+  {
+    "id": 94,
+    "ad": "İnönü Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Malatya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/inonu-universitesi.svg",
+    "aciklama": "Malatya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.inonu.edu.tr"
+  },
+  {
+    "id": 95,
+    "ad": "Işık Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/isik-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.isikun.edu.tr"
+  },
+  {
+    "id": 96,
+    "ad": "İskenderun Teknik Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Hatay",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/iskenderun-teknik-universitesi.svg",
+    "aciklama": "Hatay şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.iste.edu.tr"
+  },
+  {
+    "id": 97,
+    "ad": "Isparta Uygulamalı Bilimler Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Isparta",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/isparta-uygulamali-bilimler-universitesi.svg",
+    "aciklama": "Isparta şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://isparta.edu.tr"
+  },
+  {
+    "id": 98,
+    "ad": "İstanbul 29 Mayıs Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-29-mayis-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.29mayis.edu.tr"
+  },
+  {
+    "id": 99,
+    "ad": "İstanbul Arel Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-arel-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.arel.edu.tr"
+  },
+  {
+    "id": 100,
+    "ad": "İstanbul Atlas Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-atlas-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.atlas.edu.tr"
+  },
+  {
+    "id": 101,
+    "ad": "İstanbul Aydın Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-aydin-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.aydin.edu.tr"
+  },
+  {
+    "id": 102,
+    "ad": "İstanbul Beykent Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-beykent-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.beykent.edu.tr"
+  },
+  {
+    "id": 103,
+    "ad": "İstanbul Bilgi Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-bilgi-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.bilgi.edu.tr"
+  },
+  {
+    "id": 104,
+    "ad": "İstanbul Esenyurt Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-esenyurt-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.esenyurt.edu.tr"
+  },
+  {
+    "id": 105,
+    "ad": "İstanbul Galata Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-galata-universitesi.png",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.galata.edu.tr"
+  },
+  {
+    "id": 106,
+    "ad": "İstanbul Gedik Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-gedik-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.gedik.edu.tr"
+  },
+  {
+    "id": 107,
+    "ad": "İstanbul Gelişim Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-gelisim-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.gelisim.edu.tr"
+  },
+  {
+    "id": 108,
+    "ad": "İstanbul Kent Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-kent-universitesi.png",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.kent.edu.tr"
+  },
+  {
+    "id": 109,
+    "ad": "İstanbul Kültür Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-kultur-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.iku.edu.tr"
+  },
+  {
+    "id": 110,
+    "ad": "İstanbul Medeniyet Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-medeniyet-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.medeniyet.edu.tr"
+  },
+  {
+    "id": 111,
+    "ad": "İstanbul Medipol Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-medipol-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.medipol.edu.tr"
+  },
+  {
+    "id": 112,
+    "ad": "İstanbul Nişantaşı Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-nisantasi-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.nisantasi.edu.tr"
+  },
+  {
+    "id": 113,
+    "ad": "İstanbul Okan Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-okan-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.okan.edu.tr"
+  },
+  {
+    "id": 114,
+    "ad": "İstanbul Rumeli Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-rumeli-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.rumeli.edu.tr"
+  },
+  {
+    "id": 115,
+    "ad": "İstanbul Sabahattin Zaim Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-sabahattin-zaim-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.izu.edu.tr"
+  },
+  {
+    "id": 116,
+    "ad": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+    "tur": "Vakıf MYO",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-saglik-ve-sosyal-bilimler-meslek-yuksekokulu.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf meslek yüksekokulu.",
+    "webSite": "https://www.issb.edu.tr"
+  },
+  {
+    "id": 117,
+    "ad": "İstanbul Sağlık ve Teknoloji Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-saglik-ve-teknoloji-universitesi.png",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.istun.edu.tr"
+  },
+  {
+    "id": 118,
+    "ad": "İstanbul Şişli Meslek Yüksekokulu",
+    "tur": "Vakıf MYO",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-sisli-meslek-yuksekokulu.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf meslek yüksekokulu.",
+    "webSite": "https://www.sisli.edu.tr"
+  },
+  {
+    "id": 119,
+    "ad": "İstanbul Teknik Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-teknik-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.itu.edu.tr"
+  },
+  {
+    "id": 120,
+    "ad": "İstanbul Ticaret Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-ticaret-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.ticaret.edu.tr"
+  },
+  {
+    "id": 121,
+    "ad": "İstanbul Topkapı Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-topkapi-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.topkapi.edu.tr"
+  },
+  {
+    "id": 122,
+    "ad": "İstanbul Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.istanbul.edu.tr"
+  },
+  {
+    "id": 123,
+    "ad": "İstanbul Üniversitesi-Cerrahpaşa",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-universitesi-cerrahpasa.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://iuc.edu.tr"
+  },
+  {
+    "id": 124,
+    "ad": "İstanbul Yeni Yüzyıl Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istanbul-yeni-yuzyil-universitesi.png",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.yeniyuzyil.edu.tr"
+  },
+  {
+    "id": 125,
+    "ad": "İstinye Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/istinye-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.istinye.edu.tr"
+  },
+  {
+    "id": 126,
+    "ad": "İzmir Bakırçay Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İzmir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/izmir-bakircay-universitesi.svg",
+    "aciklama": "İzmir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://bakircay.edu.tr"
+  },
+  {
+    "id": 127,
+    "ad": "İzmir Demokrasi Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İzmir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/izmir-demokrasi-universitesi.svg",
+    "aciklama": "İzmir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.idu.edu.tr"
+  },
+  {
+    "id": 128,
+    "ad": "İzmir Ekonomi Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İzmir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/izmir-ekonomi-universitesi.svg",
+    "aciklama": "İzmir şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.ieu.edu.tr"
+  },
+  {
+    "id": 129,
+    "ad": "İzmir Katip Çelebi Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İzmir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/izmir-katip-celebi-universitesi.svg",
+    "aciklama": "İzmir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ikc.edu.tr"
+  },
+  {
+    "id": 130,
+    "ad": "İzmir Konak Meslek Yüksekokulu",
+    "tur": "Vakıf MYO",
+    "sehir": "İzmir",
+    "logo": "",
+    "aciklama": "İzmir şehrinde bulunan vakıf meslek yüksekokulu.",
+    "webSite": "https://www.konak.edu.tr"
+  },
+  {
+    "id": 131,
+    "ad": "İzmir Tınaztepe Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İzmir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/izmir-tinaztepe-universitesi.svg",
+    "aciklama": "İzmir şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.tinaztepe.edu.tr"
+  },
+  {
+    "id": 132,
+    "ad": "İzmir Yüksek Teknoloji Enstitüsü",
+    "tur": "Devlet",
+    "sehir": "İzmir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/izmir-yuksek-teknoloji-enstitusu.svg",
+    "aciklama": "İzmir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.iyte.edu.tr"
+  },
+  {
+    "id": 133,
+    "ad": "Jandarma ve Sahil Güvenlik Akademisi",
+    "tur": "Diğer",
+    "sehir": "Ankara",
+    "logo": "",
+    "aciklama": "Ankara şehrinde bulunan üniversitesi.",
+    "webSite": "https://www.jsga.edu.tr"
+  },
+  {
+    "id": 134,
+    "ad": "Kadir Has Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kadir-has-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.khas.edu.tr"
+  },
+  {
+    "id": 135,
+    "ad": "Kafkas Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kars",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kafkas-universitesi.svg",
+    "aciklama": "Kars şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.kafkas.edu.tr"
+  },
+  {
+    "id": 136,
+    "ad": "Kahramanmaraş İstiklal Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kahramanmaraş",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kahramanmaras-istiklal-universitesi.svg",
+    "aciklama": "Kahramanmaraş şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.istiklal.edu.tr"
+  },
+  {
+    "id": 137,
+    "ad": "Kahramanmaraş Sütçü İmam Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kahramanmaraş",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kahramanmaras-sutcu-imam-universitesi.svg",
+    "aciklama": "Kahramanmaraş şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ksu.edu.tr"
+  },
+  {
+    "id": 138,
+    "ad": "Kapadokya Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Nevşehir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kapadokya-universitesi.svg",
+    "aciklama": "Nevşehir şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.kapadokya.edu.tr"
+  },
+  {
+    "id": 139,
+    "ad": "Karabük Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Karabük",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/karabuk-universitesi.svg",
+    "aciklama": "Karabük şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.karabuk.edu.tr"
+  },
+  {
+    "id": 140,
+    "ad": "Karadeniz Teknik Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Trabzon",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/karadeniz-teknik-universitesi.svg",
+    "aciklama": "Trabzon şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ktu.edu.tr"
+  },
+  {
+    "id": 141,
+    "ad": "Karamanoğlu Mehmetbey Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Karaman",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/karamanoglu-mehmetbey-universitesi.svg",
+    "aciklama": "Karaman şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.kmu.edu.tr"
+  },
+  {
+    "id": 142,
+    "ad": "Kastamonu Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kastamonu",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kastamonu-universitesi.svg",
+    "aciklama": "Kastamonu şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.kastamonu.edu.tr/index.php/tr"
+  },
+  {
+    "id": 143,
+    "ad": "Kayseri Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kayseri",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kayseri-universitesi.svg",
+    "aciklama": "Kayseri şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.kayseri.edu.tr"
+  },
+  {
+    "id": 144,
+    "ad": "Kıbrıs Amerikan Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Lefkoşa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kibris-amerikan-universitesi.svg",
+    "aciklama": "Lefkoşa şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.auc.edu.tr"
+  },
+  {
+    "id": 145,
+    "ad": "Kıbrıs Aydın Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Girne",
+    "logo": "",
+    "aciklama": "Girne şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.csu.edu.tr"
+  },
+  {
+    "id": 146,
+    "ad": "Kıbrıs Batı Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Gazimağusa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kibris-bati-universitesi.png",
+    "aciklama": "Gazimağusa şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.cwu.edu.tr"
+  },
+  {
+    "id": 147,
+    "ad": "Kıbrıs Sağlık ve Toplum Bilimleri Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Güzelyurt",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kibris-saglik-ve-toplum-bilimleri-universitesi.png",
+    "aciklama": "Güzelyurt şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.kstu.edu.tr"
+  },
+  {
+    "id": 148,
+    "ad": "Kilis 7 Aralık Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kilis",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kilis-7-aralik-universitesi.svg",
+    "aciklama": "Kilis şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.kilis.edu.tr"
+  },
+  {
+    "id": 149,
+    "ad": "Kırgızistan-Türkiye Manas Üniversitesi",
+    "tur": "Diğer",
+    "sehir": "Bişkek",
+    "logo": "",
+    "aciklama": "Bişkek şehrinde bulunan üniversitesi.",
+    "webSite": "https://manas.edu.kg/tr"
+  },
+  {
+    "id": 150,
+    "ad": "Kırıkkale Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kırıkkale",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kirikkale-universitesi.svg",
+    "aciklama": "Kırıkkale şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://kku.edu.tr"
+  },
+  {
+    "id": 151,
+    "ad": "Kırklareli Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kırklareli",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kirklareli-universitesi.svg",
+    "aciklama": "Kırklareli şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.klu.edu.tr"
+  },
+  {
+    "id": 152,
+    "ad": "Kırşehir Ahi Evran Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kırşehir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kirsehir-ahi-evran-universitesi.svg",
+    "aciklama": "Kırşehir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ahievran.edu.tr"
+  },
+  {
+    "id": 153,
+    "ad": "Koç Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/koc-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.ku.edu.tr"
+  },
+  {
+    "id": 154,
+    "ad": "Kocaeli Sağlık ve Teknoloji Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Kocaeli",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kocaeli-saglik-ve-teknoloji-universitesi.png",
+    "aciklama": "Kocaeli şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.kocaelisaglik.edu.tr"
+  },
+  {
+    "id": 155,
+    "ad": "Kocaeli Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kocaeli",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kocaeli-universitesi.png",
+    "aciklama": "Kocaeli şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.kocaeli.edu.tr"
+  },
+  {
+    "id": 156,
+    "ad": "Konya Gıda ve Tarım Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Konya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/konya-gida-ve-tarim-universitesi.svg",
+    "aciklama": "Konya şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.gidatarim.edu.tr"
+  },
+  {
+    "id": 157,
+    "ad": "Konya Teknik Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Konya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/konya-teknik-universitesi.svg",
+    "aciklama": "Konya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ktun.edu.tr"
+  },
+  {
+    "id": 158,
+    "ad": "KTO Karatay Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Konya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kto-karatay-universitesi.svg",
+    "aciklama": "Konya şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.karatay.edu.tr"
+  },
+  {
+    "id": 159,
+    "ad": "Kütahya Dumlupınar Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kütahya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kutahya-dumlupinar-universitesi.svg",
+    "aciklama": "Kütahya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://dpu.edu.tr"
+  },
+  {
+    "id": 160,
+    "ad": "Kütahya Sağlık Bilimleri Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Kütahya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/kutahya-saglik-bilimleri-universitesi.svg",
+    "aciklama": "Kütahya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ksbu.edu.tr"
+  },
+  {
+    "id": 161,
+    "ad": "Lefke Avrupa Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Lefke",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/lefke-avrupa-universitesi.svg",
+    "aciklama": "Lefke şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.eul.edu.tr"
+  },
+  {
+    "id": 162,
+    "ad": "Lokman Hekim Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/lokman-hekim-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.lokmanhekim.edu.tr"
+  },
+  {
+    "id": 163,
+    "ad": "Malatya Turgut Özal Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Malatya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/malatya-turgut-ozal-universitesi.svg",
+    "aciklama": "Malatya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ozal.edu.tr"
+  },
+  {
+    "id": 164,
+    "ad": "Maltepe Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/maltepe-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.maltepe.edu.tr"
+  },
+  {
+    "id": 165,
+    "ad": "Manisa Celâl Bayar Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Manisa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/manisa-celal-bayar-universitesi.svg",
+    "aciklama": "Manisa şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.cbu.edu.tr"
+  },
+  {
+    "id": 166,
+    "ad": "Mardin Artuklu Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Mardin",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/mardin-artuklu-universitesi.svg",
+    "aciklama": "Mardin şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.artuklu.edu.tr"
+  },
+  {
+    "id": 167,
+    "ad": "Marmara Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/marmara-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.marmara.edu.tr"
+  },
+  {
+    "id": 168,
+    "ad": "MEF Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/mef-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.mef.edu.tr"
+  },
+  {
+    "id": 169,
+    "ad": "Mersin Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Mersin",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/mersin-universitesi.svg",
+    "aciklama": "Mersin şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.mersin.edu.tr/idari/genel-sekreterlik"
+  },
+  {
+    "id": 170,
+    "ad": "Milli İstihbarat Akademisi",
+    "tur": "Diğer",
+    "sehir": "Ankara",
+    "logo": "",
+    "aciklama": "Ankara şehrinde bulunan üniversitesi.",
+    "webSite": "https://mia.edu.tr"
+  },
+  {
+    "id": 171,
+    "ad": "Milli Savunma Üniversitesi",
+    "tur": "Diğer",
+    "sehir": "İstanbul",
+    "logo": "",
+    "aciklama": "İstanbul şehrinde bulunan üniversitesi.",
+    "webSite": "https://www.msu.edu.tr"
+  },
+  {
+    "id": 172,
+    "ad": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/mimar-sinan-guzel-sanatlar-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.msgsu.edu.tr"
+  },
+  {
+    "id": 173,
+    "ad": "Mudanya Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Bursa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/mudanya-universitesi.png",
+    "aciklama": "Bursa şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://mudanya.edu.tr"
+  },
+  {
+    "id": 174,
+    "ad": "Muğla Sıtkı Koçman Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Muğla",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/mugla-sitki-kocman-universitesi.svg",
+    "aciklama": "Muğla şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.mu.edu.tr"
+  },
+  {
+    "id": 175,
+    "ad": "Munzur Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Tunceli",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/munzur-universitesi.svg",
+    "aciklama": "Tunceli şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.munzur.edu.tr"
+  },
+  {
+    "id": 176,
+    "ad": "Muş Alparslan Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Muş",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/mus-alparslan-universitesi.svg",
+    "aciklama": "Muş şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.alparslan.edu.tr"
+  },
+  {
+    "id": 177,
+    "ad": "Necmettin Erbakan Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Konya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/necmettin-erbakan-universitesi.svg",
+    "aciklama": "Konya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.erbakan.edu.tr"
+  },
+  {
+    "id": 178,
+    "ad": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Nevşehir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/nevsehir-haci-bektas-veli-universitesi.svg",
+    "aciklama": "Nevşehir şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.nevsehir.edu.tr"
+  },
+  {
+    "id": 179,
+    "ad": "Niğde Ömer Halisdemir Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Niğde",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/nigde-omer-halisdemir-universitesi.svg",
+    "aciklama": "Niğde şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.ohu.edu.tr"
+  },
+  {
+    "id": 180,
+    "ad": "Nuh Naci Yazgan Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Kayseri",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/nuh-naci-yazgan-universitesi.svg",
+    "aciklama": "Kayseri şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.nny.edu.tr"
+  },
+  {
+    "id": 181,
+    "ad": "Ondokuz Mayıs Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Samsun",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ondokuz-mayis-universitesi.svg",
+    "aciklama": "Samsun şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.omu.edu.tr"
+  },
+  {
+    "id": 182,
+    "ad": "Ordu Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ordu",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ordu-universitesi.svg",
+    "aciklama": "Ordu şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.odu.edu.tr"
+  },
+  {
+    "id": 183,
+    "ad": "Orta Doğu Teknik Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/orta-dogu-teknik-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.metu.edu.tr"
+  },
+  {
+    "id": 184,
+    "ad": "Osmaniye Korkut Ata Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Osmaniye",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/osmaniye-korkut-ata-universitesi.svg",
+    "aciklama": "Osmaniye şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.osmaniye.edu.tr"
+  },
+  {
+    "id": 185,
+    "ad": "OSTİM Teknik Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ostim-teknik-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.ostimteknik.edu.tr"
+  },
+  {
+    "id": 186,
+    "ad": "Özyeğin Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ozyegin-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.ozyegin.edu.tr"
+  },
+  {
+    "id": 187,
+    "ad": "Pamukkale Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Denizli",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/pamukkale-universitesi.svg",
+    "aciklama": "Denizli şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.pau.edu.tr"
+  },
+  {
+    "id": 188,
+    "ad": "Piri Reis Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/piri-reis-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.pirireis.edu.tr"
+  },
+  {
+    "id": 189,
+    "ad": "Polis Akademisi",
+    "tur": "Diğer",
+    "sehir": "Ankara",
+    "logo": "",
+    "aciklama": "Ankara şehrinde bulunan üniversitesi.",
+    "webSite": "https://www.pa.edu.tr"
+  },
+  {
+    "id": 190,
+    "ad": "Rauf Denktaş Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Lefkoşa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/rauf-denktas-universitesi.png",
+    "aciklama": "Lefkoşa şehrinde bulunan KKTC üniversitesi.",
+    "webSite": ""
+  },
+  {
+    "id": 191,
+    "ad": "Recep Tayyip Erdoğan Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Rize",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/recep-tayyip-erdogan-universitesi.png",
+    "aciklama": "Rize şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://erdogan.edu.tr"
+  },
+  {
+    "id": 192,
+    "ad": "Sabancı Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/sabanci-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.sabanciuniv.edu"
+  },
+  {
+    "id": 193,
+    "ad": "Sağlık Bilimleri Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/saglik-bilimleri-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.sbu.edu.tr"
+  },
+  {
+    "id": 194,
+    "ad": "Sakarya Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Sakarya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/sakarya-universitesi.svg",
+    "aciklama": "Sakarya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.sakarya.edu.tr"
+  },
+  {
+    "id": 195,
+    "ad": "Sakarya Uygulamalı Bilimler Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Sakarya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/sakarya-uygulamali-bilimler-universitesi.svg",
+    "aciklama": "Sakarya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.subu.edu.tr"
+  },
+  {
+    "id": 196,
+    "ad": "Samsun Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Samsun",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/samsun-universitesi.svg",
+    "aciklama": "Samsun şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.samsun.edu.tr"
+  },
+  {
+    "id": 197,
+    "ad": "SANKO Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Gaziantep",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/sanko-universitesi.svg",
+    "aciklama": "Gaziantep şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.sanko.edu.tr"
+  },
+  {
+    "id": 198,
+    "ad": "Selçuk Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Konya",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/selcuk-universitesi.svg",
+    "aciklama": "Konya şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.selcuk.edu.tr"
+  },
+  {
+    "id": 199,
+    "ad": "Siirt Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Siirt",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/siirt-universitesi.svg",
+    "aciklama": "Siirt şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://siirt.edu.tr"
+  },
+  {
+    "id": 200,
+    "ad": "Sinop Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Sinop",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/sinop-universitesi.svg",
+    "aciklama": "Sinop şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.sinop.edu.tr"
+  },
+  {
+    "id": 201,
+    "ad": "Şırnak Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Şırnak",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/sirnak-universitesi.svg",
+    "aciklama": "Şırnak şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.sirnak.edu.tr"
+  },
+  {
+    "id": 202,
+    "ad": "Sivas Bilim ve Teknoloji Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Sivas",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/sivas-bilim-ve-teknoloji-universitesi.svg",
+    "aciklama": "Sivas şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.sivas.edu.tr"
+  },
+  {
+    "id": 203,
+    "ad": "Sivas Cumhuriyet Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Sivas",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/sivas-cumhuriyet-universitesi.svg",
+    "aciklama": "Sivas şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.cumhuriyet.edu.tr"
+  },
+  {
+    "id": 204,
+    "ad": "Süleyman Demirel Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Isparta",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/suleyman-demirel-universitesi.svg",
+    "aciklama": "Isparta şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.sdu.edu.tr"
+  },
+  {
+    "id": 205,
+    "ad": "Tarsus Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Mersin",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/tarsus-universitesi.svg",
+    "aciklama": "Mersin şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.tarsus.edu.tr"
+  },
+  {
+    "id": 206,
+    "ad": "TED Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ted-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.tedu.edu.tr"
+  },
+  {
+    "id": 207,
+    "ad": "Tekirdağ Namık Kemal Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Tekirdağ",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/tekirdag-namik-kemal-universitesi.svg",
+    "aciklama": "Tekirdağ şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.nku.edu.tr"
+  },
+  {
+    "id": 208,
+    "ad": "Tiran New York Üniversitesi",
+    "tur": "Diğer",
+    "sehir": "Tiran",
+    "logo": "",
+    "aciklama": "Tiran şehrinde bulunan üniversitesi.",
+    "webSite": ""
+  },
+  {
+    "id": 209,
+    "ad": "TOBB Ekonomi ve Teknoloji Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/tobb-ekonomi-ve-teknoloji-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.etu.edu.tr"
+  },
+  {
+    "id": 210,
+    "ad": "Tokat Gaziosmanpaşa Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Tokat",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/tokat-gaziosmanpasa-universitesi.svg",
+    "aciklama": "Tokat şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.gop.edu.tr"
+  },
+  {
+    "id": 211,
+    "ad": "Toros Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Mersin",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/toros-universitesi.svg",
+    "aciklama": "Mersin şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.toros.edu.tr"
+  },
+  {
+    "id": 212,
+    "ad": "Trabzon Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Trabzon",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/trabzon-universitesi.svg",
+    "aciklama": "Trabzon şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.trabzon.edu.tr"
+  },
+  {
+    "id": 213,
+    "ad": "Trakya Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Edirne",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/trakya-universitesi.svg",
+    "aciklama": "Edirne şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.trakya.edu.tr"
+  },
+  {
+    "id": 214,
+    "ad": "Türk-Alman Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/turk-alman-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.tau.edu.tr"
+  },
+  {
+    "id": 215,
+    "ad": "Türk Hava Kurumu Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/turk-hava-kurumu-universitesi.png",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.thk.edu.tr"
+  },
+  {
+    "id": 216,
+    "ad": "Türk-Japon Bilim ve Teknoloji Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/turk-japon-bilim-ve-teknoloji-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://tju.edu.tr/tr"
+  },
+  {
+    "id": 217,
+    "ad": "Türkiye-Azerbaycan Üniversitesi",
+    "tur": "Diğer",
+    "sehir": "Bakü",
+    "logo": "",
+    "aciklama": "Bakü şehrinde bulunan üniversitesi.",
+    "webSite": "https://tau.edu.az"
+  },
+  {
+    "id": 218,
+    "ad": "Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.tibu.edu.tr"
+  },
+  {
+    "id": 219,
+    "ad": "Ufuk Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/ufuk-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.ufuk.edu.tr"
+  },
+  {
+    "id": 220,
+    "ad": "Uluslararası Balkan Üniversitesi",
+    "tur": "Diğer",
+    "sehir": "Üsküp",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/uluslararasi-balkan-universitesi.png",
+    "aciklama": "Üsküp şehrinde bulunan üniversitesi.",
+    "webSite": ""
+  },
+  {
+    "id": 221,
+    "ad": "Uluslararası Final Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Girne",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/uluslararasi-final-universitesi.png",
+    "aciklama": "Girne şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.final.edu.tr"
+  },
+  {
+    "id": 222,
+    "ad": "Uluslararası Kıbrıs Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Lefkoşa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/uluslararasi-kibris-universitesi.svg",
+    "aciklama": "Lefkoşa şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.ciu.edu.tr"
+  },
+  {
+    "id": 223,
+    "ad": "Uluslararası Saraybosna Üniversitesi",
+    "tur": "Diğer",
+    "sehir": "Saraybosna",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/uluslararasi-saraybosna-universitesi.png",
+    "aciklama": "Saraybosna şehrinde bulunan üniversitesi.",
+    "webSite": ""
+  },
+  {
+    "id": 224,
+    "ad": "Uşak Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Uşak",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/usak-universitesi.svg",
+    "aciklama": "Uşak şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.usak.edu.tr"
+  },
+  {
+    "id": 225,
+    "ad": "Üsküdar Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/uskudar-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.uskudar.edu.tr"
+  },
+  {
+    "id": 226,
+    "ad": "Van Yüzüncü Yıl Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Van",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/van-yuzuncu-yil-universitesi.svg",
+    "aciklama": "Van şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.yyu.edu.tr"
+  },
+  {
+    "id": 227,
+    "ad": "Yakın Doğu Üniversitesi",
+    "tur": "KKTC",
+    "sehir": "Lefkoşa",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/yakin-dogu-universitesi.svg",
+    "aciklama": "Lefkoşa şehrinde bulunan KKTC üniversitesi.",
+    "webSite": "https://www.neu.edu.tr"
+  },
+  {
+    "id": 228,
+    "ad": "Yalova Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Yalova",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/yalova-universitesi.svg",
+    "aciklama": "Yalova şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.yalova.edu.tr/rektorluk"
+  },
+  {
+    "id": 229,
+    "ad": "Yaşar Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İzmir",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/yasar-universitesi.svg",
+    "aciklama": "İzmir şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.yasar.edu.tr"
+  },
+  {
+    "id": 230,
+    "ad": "Yeditepe Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/yeditepe-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.yeditepe.edu.tr"
+  },
+  {
+    "id": 231,
+    "ad": "Yıldız Teknik Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "İstanbul",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/yildiz-teknik-universitesi.svg",
+    "aciklama": "İstanbul şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.yildiz.edu.tr"
+  },
+  {
+    "id": 232,
+    "ad": "Yozgat Bozok Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Yozgat",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/yozgat-bozok-universitesi.svg",
+    "aciklama": "Yozgat şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.bozok.edu.tr"
+  },
+  {
+    "id": 233,
+    "ad": "Yüksek İhtisas Üniversitesi",
+    "tur": "Vakıf",
+    "sehir": "Ankara",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/yuksek-ihtisas-universitesi.svg",
+    "aciklama": "Ankara şehrinde bulunan vakıf üniversitesi.",
+    "webSite": "https://www.yuksekihtisasuniversitesi.edu.tr"
+  },
+  {
+    "id": 234,
+    "ad": "Zonguldak Bülent Ecevit Üniversitesi",
+    "tur": "Devlet",
+    "sehir": "Zonguldak",
+    "logo": "https://raw.githubusercontent.com/ferdizarifoglu/kartmanya-data/main/logo/zonguldak-bulent-ecevit-universitesi.svg",
+    "aciklama": "Zonguldak şehrinde bulunan devlet üniversitesi.",
+    "webSite": "https://www.beun.edu.tr"
+  }
+]
 
